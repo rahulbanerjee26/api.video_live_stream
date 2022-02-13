@@ -1,0 +1,16 @@
+main {
+  box-sizing: border-box;
+  padding: 2vw;
+  background: #faf3dd;
+  height: 100vh;
+}
+
+main>h1{
+  text-align: center;
+  color: #5e6472;
+}
+
+.videoPlayer{
+  margin-top: 5vw;
+  height: 60vh;
+}

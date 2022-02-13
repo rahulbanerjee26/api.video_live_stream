@@ -1,0 +1,19 @@
+{
+  "name": "api-video-live-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@api.video/nodejs-client": "^2.2.2",
+    "axios": "^0.25.0",
+    "follow-redirects": "^1.14.8",
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
